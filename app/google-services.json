@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30380847890",
+    "project_id": "scooby-e77dd",
+    "storage_bucket": "scooby-e77dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30380847890:android:afa1e798b97a28b5d7b9cb",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30380847890-e84kfsp0dfli14675mguauthh4l9mit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmul0yjLakQyXXFC_0UAny63V0SK9B14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30380847890-e84kfsp0dfli14675mguauthh4l9mit1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
